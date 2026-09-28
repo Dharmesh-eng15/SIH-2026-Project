@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ayushgautamcodes.github.io/SIH-2026/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+  <a href="https://github.com/Dharmesh-eng15/SIH-2026-Project">
+    <img src="https://img.shields.io/badge/Project-Repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Project Repository">
   </a>
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2026-ff6b35?style=for-the-badge" alt="Smart India Hackathon 2026">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -360,8 +360,8 @@ This is a static HTML/CSS/JavaScript application.
 ### 1. Clone
 
 ```bash
-git clone https://github.com/ayushgautamcodes/SIH-2026.git
-cd SIH-2026
+git clone https://github.com/Dharmesh-eng15/SIH-2026-Project.git
+cd SIH-2026-Project
 ```
 
 ### 2. Start a local server
@@ -489,8 +489,8 @@ Hospital deployment + monitoring
 ## Live Demo
 
 <p align="center">
-  <a href="https://ayushgautamcodes.github.io/SIH-2026/">
-    <strong>🚀 Open RoG-उपाttam Live Demo</strong>
+  <a href="https://github.com/Dharmesh-eng15/SIH-2026-Project">
+    <strong>🚀 Explore RoG-उपाttam Repository</strong>
   </a>
 </p>
 
@@ -499,6 +499,12 @@ Hospital deployment + monitoring
 ## Project Context
 
 This project was developed as a **Smart India Hackathon 2026** software prototype.
+
+### Project Concept
+
+**Project concept and direction:** Dharmeshwar Dayal
+
+The repository presents the current SIH 2026 prototype and its technical documentation. Earlier prototype implementation work was used as a foundation for the current repository, while the project concept, direction and final presentation are maintained here.
 
 > Problem Statement ID, official problem statement title, team name and other submission metadata can be added here once finalized.
 
