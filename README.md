@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dharmesh-eng15/SIH-2026-Project">
-    <img src="https://img.shields.io/badge/Project-Repository-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Project Repository">
+  <a href="https://dharmesh-eng15.github.io/SIH-2026-Project/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
   </a>
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2026-ff6b35?style=for-the-badge" alt="Smart India Hackathon 2026">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -489,7 +489,7 @@ Hospital deployment + monitoring
 ## Live Demo
 
 <p align="center">
-  <a href="https://github.com/Dharmesh-eng15/SIH-2026-Project">
+  <a href="https://dharmesh-eng15.github.io/SIH-2026-Project/">
     <strong>🚀 Explore RoG-उपाttam Repository</strong>
   </a>
 </p>
